@@ -113,7 +113,7 @@ wp-content/plugins/*
 # ignore everything in the "themes" directory,
 wp-content/themes/*
 
-!cli-extensions/
-!cli-extensions/*
+!manage-plugins/
+!manage-plugins/*
 
 
